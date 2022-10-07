@@ -5,7 +5,10 @@
   (paper "A4")
 
   (title_block
-    (title "#0102")
+    (title "#0101 INDICATORS")
+    (date "2022-10-07")
+    (rev "V1.0")
+    (company "TileParts")
   )
 
   (lib_symbols
