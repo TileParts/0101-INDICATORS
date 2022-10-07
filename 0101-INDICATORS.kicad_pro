@@ -377,7 +377,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "TILE_0102.kicad_pro",
+    "filename": "0101-INDICATORS.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -447,7 +447,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "0101-INDICATORS.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
